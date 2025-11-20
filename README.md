@@ -1,16 +1,32 @@
-## Hi there 👋
+👨‍💻 Who I Am
+- Aspiring full-stack web developer with a solid foundation in front-end technologies.
+- Proficient in HTML 🌐 and CSS 🎨.
+- Currently mastering JavaScript 🚀 to complete the front-end journey.
+- Passionate about building responsive and user-friendly web experiences ✨.
 
-<!--
-**BeClifford/BeClifford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 What I'm Currently Working On
+- Deep diving into advanced JavaScript concepts to fully begin creating front-ends.
+- Building several small projects to apply new JavaScript skills, such as a basic calculator 💻 and a to-do list application ✅.
+- Planning to start learning a front-end framework (likely React) soon!
 
-Here are some ideas to get you started:
+🛠️ What Tools I Use
+Languages: HTML5, CSS3, JavaScript (ES6+)
+Version Control: Git, GitHub 🐙
+Tools: VS Code, Chrome DevTools
+Design: Basic wireframing tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 How To Reach Me
+LinkedIn: @derek-dumenya
+Twitter/X: @_beclifford
+Tiktok: @beclifford
+
+😄 Pronouns
+He/Him
+
+⚡ Fun fact
+I'm a self-taught developer who started coding just for my love❤️ for tech and problem-solving!
+
+
+
+
+
